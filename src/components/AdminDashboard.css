@@ -1,0 +1,36 @@
+.admin-dashboard {
+    padding: 20px;
+  }
+  
+  .case-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .case-card h4 {
+    margin-top: 0;
+  }
+  
+  .case-card p {
+    margin: 5px 0;
+  }
+  
+  .case-card ul {
+    padding-left: 20px;
+  }
+  
+  .case-card li {
+    list-style-type: none;
+  }
+  
+  .case-card a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .case-card a:hover {
+    text-decoration: underline;
+  }
+  

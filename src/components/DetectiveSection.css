@@ -1,0 +1,23 @@
+.detective-section {
+    padding: 20px;
+  }
+  
+  .detective-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .detective-section table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .detective-section th, .detective-section td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .detective-section th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
